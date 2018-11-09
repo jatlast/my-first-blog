@@ -25,7 +25,7 @@ SECRET_KEY = 'u+$%)2sy(_i6lv!g_vlbt*3^*x8(zn$8gp-q@k5op2=q0tdqm0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.16.101.20']
+ALLOWED_HOSTS = ['10.16.101.20', 'jatlast.pythonanywhere.com']
 
 
 # Application definition
