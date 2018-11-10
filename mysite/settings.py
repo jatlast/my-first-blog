@@ -121,3 +121,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
+# Django Girls tutorial said to add the following variable...
+LOGIN_REDIRECT_URL = '/'
